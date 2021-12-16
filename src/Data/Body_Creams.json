@@ -1,0 +1,42 @@
+{
+    "Body_Creams":[
+{
+"image":"https://www.refinery29.com/images/9134712.jpg",
+"name":"Coconut Body Butter",
+"decription":"Now made with 96% ingredients of natural origin, including Community Fair Trade organic virgin coconut oil from Samoa, handcrafted Community Fair Trade shea butter from Ghana and Community Fair Trade organic babassu oil from Brazil, our body moisturiser leaves seriously dry skin feeling softer, smoother and intensely nourished with 96hr moisture.",
+ "price":"18"
+},
+{
+    "image":"https://media.thebodyshop.com/i/thebodyshop/MANGO_BODY_BUTTER_200ml_1_INECMPS066.jpg?$product-zoom$",
+    "name":"Mango Body Butter",
+    "decription":"This juicy-smelling, intensely creamy Body Butter now comes in recyclable packaging* made with an aluminium lid and 100% recycled plastic tub, including Community Fair Trade recycled plastic from Pkaistan. This means you can love your planet every time you love that beautiful body.",
+     "price":"25"
+ },
+ {
+    "image":"https://m.media-amazon.com/images/I/51vaOoGV7kL._AC_SX569_.jpg",
+    "name":"Strawberry Body Butter",
+    "decription":"Now made with 96% ingredients of natural origin, including Community Fair Trade organic virgin coconut oil from Samoa, handcrafted Community Fair Trade shea butter from Ghana and Community Fair Trade organic babassu oil from Brazil, our body moisturiser leaves seriously dry skin feeling softer, smoother and intensely nourished with 96hr moisture.",
+     "price":"20"
+},
+{
+    "image":"https://lh3.googleusercontent.com/p/AF1QipMSTpiPilI6lCRSbAmm0acFORyvPzbEWA-9rIht=s1280-p-no-v1",
+    "name":"Avacado Body Butter",
+    "decription":"This juicy-smelling, intensely creamy Body Butter now comes in recyclable packaging* made with an aluminium lid and 100% recycled plastic tub, including Community Fair Trade recycled plastic from Pkaistan. This means you can love your planet every time you love that beautiful body.",
+     "price":"25"
+ },
+ {
+    "image":"https://www.gcosmetics.co.uk/193-large_default/the-body-shop-almond-body-butter.jpg",
+    "name":"Almond Body Butter",
+    "decription":"Now made with 96% ingredients of natural origin, including Community Fair Trade organic virgin coconut oil from Samoa, handcrafted Community Fair Trade shea butter from Ghana and Community Fair Trade organic babassu oil from Brazil, our body moisturiser leaves seriously dry skin feeling softer, smoother and intensely nourished with 96hr moisture.",
+     "price":"18"
+},
+{
+    "image":"https://s3.amazonaws.com/s3.etukuri.mv/R8rlAw76/c/3r4eu6aj-featured.jpg",
+    "name":"Rose Body Butter",
+    "decription":"This juicy-smelling, intensely creamy Body Butter now comes in recyclable packaging* made with an aluminium lid and 100% recycled plastic tub, including Community Fair Trade recycled plastic from Pkaistan. This means you can love your planet every time you love that beautiful body.",
+     "price":"25"
+ }
+
+]
+
+}
