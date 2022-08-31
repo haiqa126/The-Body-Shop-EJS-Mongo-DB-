@@ -35,7 +35,7 @@ app.use(bodyParser.urlencoded({
 app.use(bodyParser.json())
 
 
+const PORT=process.env.PORT || 4000;
 
 
-
-app.listen(4000);
+app.listen(PORT);
